@@ -5,6 +5,7 @@ public class testしまくるぅううう {
 	public static void main(String[] args) {
 		System.out.println("けっ");
 		System.out.println("ふっ");
+		System.out.println("ふっ");
 		
 	}
 
